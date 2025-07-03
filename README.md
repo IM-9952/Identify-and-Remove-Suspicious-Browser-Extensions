@@ -1,5 +1,6 @@
-# Task 7: Identify-and-Remove-Suspicious-Browser-Extensions
-Identify and Remove Suspicious Browser Extensions
+# Identify-and-Remove-Suspicious-Browser-Extensions
+
+Task 7: Identify and Remove Suspicious Browser Extensions
 
 # Step 1: Opened Extension Manager:
 
