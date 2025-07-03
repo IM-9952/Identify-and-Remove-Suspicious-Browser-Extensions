@@ -12,7 +12,7 @@ Checked all installed extensions manually .The screenshot shows the chrome://ext
 ![image](https://github.com/user-attachments/assets/ae4cc56f-38a3-4b10-bed6-05deb6e919cd)
 
 
-# Step 3: Evaluated Each Extension:
+# Step 3: Evaluated Each Installed Extensions:
 
 Verified developer authenticity and reviews from Chrome Web Store.
 
@@ -22,9 +22,8 @@ Noted down extensions asking for high-risk permissions like:
 
 “Access browser tabs and browsing activity”
 
-# Step 4 :  Installed Extensions:
 
-Google Docs Offline
+# Google Docs Offline
 
 Purpose: Allows offline access to Google Docs, Sheets, and Slides.
 
@@ -32,7 +31,7 @@ Permissions: Minimal, limited to document access.
 
 Status: Safe (developed by Google, no unusual permissions).
 
-Microsoft Bing Search for Chrome
+# Microsoft Bing Search for Chrome
 
 Purpose: Sets Microsoft Bing as the default search provider.
 
@@ -40,13 +39,13 @@ Permissions: Changes default search settings.
 
 Status:  Safe, though it modifies search preferences.
 
-# Step 5: Action Taken:
+# Step 4: Action Taken:
 
 No suspicious or third-party extensions detected.
 
 No action required as both extensions are trusted and widely used.
 
-# Step 6:  Recommendations:
+# Step 5:  Recommendations:
 
 Regularly review installed extensions.
 
