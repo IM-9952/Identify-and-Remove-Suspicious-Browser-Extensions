@@ -42,16 +42,6 @@ Status:  Safe, though it modifies search preferences.
 ![bing](https://github.com/user-attachments/assets/f5429183-3432-40b7-bcbf-64c670e08207)
 
 
-    '''
-    Verified developer authenticity and reviews from Chrome Web Store.
-
-    Noted down extensions asking for high-risk permissions like:
-
-    “Read and change all your data on websites”
-
-    “Access browser tabs and browsing activity”
-
-    '''
 
 
 # Step 4: Action Taken:
@@ -65,11 +55,13 @@ No action required as both extensions are trusted and widely used.
 
 Regularly review installed extensions.
 
-Only install extensions from trusted sources (e.g., Chrome Web Store).
+ Verified developer authenticity .Only install extensions from trusted sources (e.g., Chrome Web Store).
 
 Avoid granting unnecessary permissions (especially full access to all websites).
 
 Enable Chrome’s "Enhanced Protection" under Security settings for safer browsing.
+
+
 
 
 
